@@ -1,0 +1,8 @@
+{
+  "name": "KASIR WARKOP TENGAH MALAM",
+  "description": "Sistem kasir digital Warkop Tengah Malam - Nongkrong Gak Harus Mahal. Pengelolaan pesanan, member, pengeluaran, tutup register, dan sinkronisasi live Google Sheets otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
